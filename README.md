@@ -15,5 +15,8 @@ A simple bash script that fetches Pokémon stats using the (PokéAPI)[https://po
 5. Run the file! `bash app.sh`
 
 ## Example
+!()[https://github.com/nandiniproothi/whas-poke-ing/blob/main/example.mov]
 
 ## License
+
+(MIT)[https://github.com/nandiniproothi/whas-poke-ing/blob/main/LICENSE]
