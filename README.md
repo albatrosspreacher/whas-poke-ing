@@ -1,9 +1,9 @@
 # whas-poke-ing
 
-A simple bash script that fetches Pokémon stats using the (PokéAPI)[https://pokeapi.co/]
+A simple bash script that fetches Pokémon stats using the [PokéAPI](https://pokeapi.co/)
 
 ## Prerequisites 
-1. Install (jq)[https://stedolan.github.io/jq/download/]
+1. Install [jq](https://stedolan.github.io/jq/download/)
 2. Be prepared to catch some pokémons
 
 ## Installation
@@ -15,8 +15,10 @@ A simple bash script that fetches Pokémon stats using the (PokéAPI)[https://po
 5. Run the file! `bash app.sh`
 
 ## Example
-!()[https://github.com/nandiniproothi/whas-poke-ing/blob/main/example.mov]
+<video width="320" height="240" controls>
+  <source src="/example.mov" type="video/mp4">
+</video>
 
 ## License
 
-(MIT)[https://github.com/nandiniproothi/whas-poke-ing/blob/main/LICENSE]
+[MIT](https://github.com/nandiniproothi/whas-poke-ing/blob/main/LICENSE)
